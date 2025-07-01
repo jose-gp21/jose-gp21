@@ -18,7 +18,7 @@
 const gabriel = {
   role: "Full Stack Developer",
   location: "Brazil 🇧🇷",
-  languages: ["JavaScript", "TypeScript", "Java", "SQL"],
+  languages: ["TypeScript","Java", "SQL", "C++", "Python"],
   frontEnd: {
     frameworks: ["React", "Next.js", "React Native"],
     styling: ["CSS3", "Tailwind CSS", "Styled Components"],
