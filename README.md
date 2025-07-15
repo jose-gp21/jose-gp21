@@ -22,7 +22,7 @@ const gabriel = {
   frontEnd: {
     frameworks: ["React", "Next.js", "React Native"],
     styling: ["CSS3", "Tailwind CSS", "Styled Components"],
-    tools: ["Expo", "Vite", "Webpack"]
+    tools: ["Expo", "NextJS", "Vite", "Webpack"]
   },
   backEnd: {
     runtime: ["Node.js"],
