@@ -87,13 +87,6 @@ const gabriel = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jose-gp21&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true" alt="GitHub Activity Graph" />
-</div>
-
----
 
 ## 🎯 What I'm Up To
 
